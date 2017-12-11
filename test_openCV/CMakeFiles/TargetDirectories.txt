@@ -1,3 +1,0 @@
-/home/anna/Desktop/OpenCV/test_openCV/CMakeFiles/edit_cache.dir
-/home/anna/Desktop/OpenCV/test_openCV/CMakeFiles/rebuild_cache.dir
-/home/anna/Desktop/OpenCV/test_openCV/CMakeFiles/test.dir
